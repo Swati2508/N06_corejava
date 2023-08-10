@@ -19,9 +19,4 @@ public class Employee {
 		
 	}
 
-	private void Department(String string) {
-		// TODO Auto-generated method stub
-		
-	}
-
 }
